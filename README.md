@@ -1,6 +1,9 @@
 # Fund
 
+[![Gem Version](https://badge.fury.io/rb/fund.svg)](https://badge.fury.io/rb/fund) 
 [![Build Status](https://travis-ci.org/nazarhussain/fund.svg?branch=master)](https://travis-ci.org/nazarhussain/fund)
+[![Code Climate](https://codeclimate.com/github/nazarhussain/fund.svg)](https://codeclimate.com/github/nazarhussain/fund)
+
 
 If you ever need to build a ruby based app where you need currency conversion. This gem will help you in every aspect.
 
